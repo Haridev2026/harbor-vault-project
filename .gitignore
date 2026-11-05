@@ -1,0 +1,23 @@
+#vault secrets
+.vault-token
+vault-token*
+vault.env
+vault.hcl
+
+#Harbor secrets
+harbor.yml
+
+#Certificates and private keys
+*.key
+*.pem
+*.crt
+certs/
+
+#Environment files
+.env
+.env.*
+
+#Temporary files
+*.tmp
+*.log
+
