@@ -1,0 +1,7 @@
+touch vault/policies/.gitkeep
+touch vault/secrets/.gitkeep
+touch vault/certificates/.gitkeep
+
+touch harbor/config/.gitkeep
+touch harbor/certificates/.gitkeep
+touch harbor/screenshots/.gitkeep
