@@ -1,7 +1,8 @@
-touch vault/policies/.gitkeep
-touch vault/secrets/.gitkeep
-touch vault/certificates/.gitkeep
+mkdir -p harbor/{config,certificates,scripts,screenshots,logs,backup}
 
 touch harbor/config/.gitkeep
 touch harbor/certificates/.gitkeep
+touch harbor/scripts/.gitkeep
 touch harbor/screenshots/.gitkeep
+touch harbor/logs/.gitkeep
+touch harbor/backup/.gitkeep
